@@ -2,32 +2,26 @@
 
 ## 📖 Overview
 
-The **Full Stack Real-Time AI Voice Agent Interview Platform** is a cutting-edge application designed to facilitate AI-driven real-time voice interviews. It leverages advanced AI technologies to simulate interview scenarios, providing users with an interactive and efficient experience.
+The **Full Stack Real-Time AI Voice Agent Interview Platform** is an innovative solution designed to streamline AI-driven voice interviews. By simulating realistic interview scenarios, it offers users an engaging and efficient way to prepare for interviews.
 
 ## ✨ Features
 
-- 🎤 **Real-Time Voice Interaction**: AI-powered voice agents for seamless communication.
-- 🛠️ **Customizable Interview Scenarios**: Tailor interview questions and scenarios to specific needs.
-- 📊 **AI-Powered Feedback**: Real-time analysis and feedback on responses.
-<!-- - 🌐 **Cross-Platform Support**: Accessible via web and mobile platforms. -->
-- 🔒 **Secure and Scalable**: Built with robust security and scalability in mind.
+- 🎤 **AI-Driven Voice Interaction**: Real-time communication with intelligent voice agents.
+- 🛠️ **Customizable Scenarios**: Adapt interview questions and settings to your preferences.
+- 📊 **Instant Feedback**: Receive AI-powered analysis and insights on your responses.
+- 🔒 **Secure & Scalable**: Engineered with top-notch security and scalability.
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: ⚛️ Next.js, 🎨 Tailwind CSS
-<!-- - **Backend**: 🟢 Node.js, 🚀 Express.js
-- **Database**: 🍃 MongoDB -->
-  <!-- - **AI/ML**: 🐍 Python, 🔬 TensorFlow, or 🤖 OpenAI APIs -->
-  <!-- - **Real-Time Communication**: 📡 WebRTC, 🔗 Socket.IO -->
-  <!-- - **Deployment**: 🐳 Docker, ☸️ Kubernetes, ☁️ AWS/GCP/Azure -->
+⚛️ Next.js, 🎨 Tailwind CSS
 
 ## ⚙️ Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ai-voice-agent-platform.git
-   cd ai-voice-agent-platform
+   git clone https://github.com/ranjeetkumar-dev/PrepWise.git
+   cd PrepWise
    ```
 
 2. Install dependencies:
@@ -36,34 +30,34 @@ The **Full Stack Real-Time AI Voice Agent Interview Platform** is a cutting-edge
    npm install
    ```
 
-3. Set up environment variables:
+3. Configure environment variables:
 
    - Create a `.env.local` file in the root directory.
-   - Add the required variables from .env.sample .
+   - Populate it with the required variables from `.env.sample`.
 
 4. Start the development server:
+
    ```bash
    npm run dev
    ```
 
 ## 🚀 Usage
 
-1. Open the application in your browser. 🌐
-<!-- 2. Configure your interview settings. ⚙️ -->
-2. Start the real-time AI voice interview. 🎙️
-3. Review feedback and analytics. 📈
+1. Launch the application in your browser. 🌐
+2. Begin the AI-powered voice interview. 🎙️
+3. Analyze feedback and performance metrics. 📈
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please follow these steps:
+We welcome contributions! Follow these steps to get started:
 
 1. Fork the repository. 🍴
-2. Create a new branch:
+2. Create a feature branch:
    ```bash
    git checkout -b feature-name
    ```
-3. Commit your changes and push to your fork. 📤
-4. Submit a pull request. 🔄
+3. Commit your changes and push them to your fork. 📤
+4. Open a pull request. 🔄
 
 ## 📜 License
 
@@ -71,4 +65,4 @@ This project is licensed under the [MIT License](LICENSE). 📄
 
 ## 📬 Contact
 
-For questions or support, please contact 📧 [your-email@example.com].
+For inquiries or support, reach out via 📧 [your-email@example.com].
